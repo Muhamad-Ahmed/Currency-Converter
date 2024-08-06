@@ -1,0 +1,13 @@
+{
+  "name": "currency_converter_ahmed",
+  "version": "1.0.0",
+  "description": "Currency converter made in typescript using inquirer.",
+  "main": "main.js",
+  "type":"module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Shahid",
+  "license": "ISC"
+}
